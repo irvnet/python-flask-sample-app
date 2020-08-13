@@ -1,4 +1,5 @@
 ## Flaskr an example application written in Python/Flask
+## deploy to CF
 
 ![Flask plus Codefresh](docker-flask-codefresh.jpg)
 
